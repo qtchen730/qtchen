@@ -54,7 +54,7 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 
 🆔 [![ORCID](https://img.shields.io/badge/ORCID-Connect-green?style=social&logo=orcid)](https://orcid.org/0000-0001-8970-1345)
 
-💻 [![GitHub](https://img.shields.io/github/followers/liq22?label=follow&style=social)](https://github.com/qtchen730)
+💻 [![GitHub](https://img.shields.io/github/followers/qtchen730?label=follow&style=social)](https://github.com/qtchen730)
 
 🏠 [![Homepage](https://img.shields.io/badge/Homepage-Visit-blue?style=social&logo=github)](https://qtchen730.github.io/qtchen.github.io/)
 
@@ -72,13 +72,13 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liq22&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qtchen730&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" style="margin: 10px;" />
 </div>
 
 ### 🔥 GitHub streak stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liq22&theme=dark)" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtchen730&theme=dark)" style="margin: 10px;" />
 </div>
 </details>
 
