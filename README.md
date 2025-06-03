@@ -68,7 +68,7 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 ###  📈 GitHub stats
 
 <div align="center">
-  <img src="./assets/pic/LQ.png" width="180" style="margin: 10px;" />
+  <img src="./assets/pic/qtchen.png" width="180" style="margin: 10px;" />
 </div>
 
 <div align="center">
