@@ -17,20 +17,20 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 <summary><h3 style="display: inline-block">🤖 PHM Foundation Model</h3></summary>
 
 - 🏗️ Building large-scale, general-purpose models for industrial equipment health monitoring and predictive maintenance.
- - 🚀 I am leading an open-source project group called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives.
+ - 🚀 I am participating in an open-source project group called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives.
 
 🔥 Notable work: [HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://github.com/liq22/HSE_module)
 </details>
 
 <details>
-<summary><h3 style="display: inline-block">🧠 Neural-symbolic Diagnosis</h3></summary>
+<summary><h3 style="display: inline-block">🧠 Cross-machine Diagnosis</h3></summary>
 
-- 🔄 Combining neural networks with symbolic knowledge to create more explainable and robust fault diagnosis systems.
+- 🔄 Combine few-shot learning and contrastive learning to achieve cross-machine fault diagnosis.
 
 ✨ Notable publications:
-- 📊 Transparent Operator Network (TII 2024)
-- 🧩 Deep Expert Network (JMS 2024)
-- 🔍 Transparent Information Fusion Network (ADVEI 2025)
+- 📊 Metric Learning-Based Few-Shot Adversarial Domain Adaptation: A Cross-Machine Diagnosis Method for Ball Screws of Industrial Robots (TIM 2024)
+- 🧩 Few-shot Metric Adversarial Adaptation for Cross-machine Fault Diagnosis (CDC 2024)
+- 🔍 ...
 </details>
 
 <details>
@@ -39,9 +39,9 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 🔄 Developing methods to transfer knowledge between different domains and equipment types for efficient fault diagnosis.
 
 📝 Notable publications:
-- 🌐 Cross-Domain Augmentation Diagnosis (RESS 2023)
-- 🛠️ Adversarial Domain-Invariant Generalization (TII 2022)
-- 🧪 Knowledge Mapping-Based Adversarial Domain Adaptation (MSSP 2021)
+- 🌐 Fault diagnosis for ball screws in industrial robots under variable and inaccessible working conditions with non-vibration signals (AEI 2024)
+- 🛠️ A lightweight and robust model for engineering cross-domain fault diagnosis via feature fusion-based unsupervised adversarial learning (Mesurement 2022)
+- 🧪 ...
 </details>
 </details>
 
