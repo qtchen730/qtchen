@@ -28,8 +28,8 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 - 🔄 Combine few-shot learning and contrastive learning to achieve cross-machine fault diagnosis.
 
 ✨ Notable publications:
-- 📊 Metric Learning-Based Few-Shot Adversarial Domain Adaptation: A Cross-Machine Diagnosis Method for Ball Screws of Industrial Robots (TIM 2024)
-- 🧩 Few-shot Metric Adversarial Adaptation for Cross-machine Fault Diagnosis (CDC 2024)
+- 📊 [Metric Learning-Based Few-Shot Adversarial Domain Adaptation: A Cross-Machine Diagnosis Method for Ball Screws of Industrial Robots](https://ieeexplore.ieee.org/abstract/document/10535297) (TIM, 2024)
+- 🧩 [Few-shot Metric Adversarial Adaptation for Cross-machine Fault Diagnosis](https://ieeexplore.ieee.org/abstract/document/10886709) (63rd IEEE Conference on Decision and Control, 2024)
 - 🔍 ...
 </details>
 
@@ -39,8 +39,8 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 🔄 Developing methods to transfer knowledge between different domains and equipment types for efficient fault diagnosis.
 
 📝 Notable publications:
-- 🌐 Fault diagnosis for ball screws in industrial robots under variable and inaccessible working conditions with non-vibration signals (AEI 2024)
-- 🛠️ A lightweight and robust model for engineering cross-domain fault diagnosis via feature fusion-based unsupervised adversarial learning (Mesurement 2022)
+- 🌐 [Fault diagnosis for ball screws in industrial robots under variable and inaccessible working conditions with non-vibration signals](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002659) (AEI, 2024)
+- 🛠️ [A lightweight and robust model for engineering cross-domain fault diagnosis via feature fusion-based unsupervised adversarial learning](https://www.sciencedirect.com/science/article/abs/pii/S0263224122013355) (Mesurement, 2022)
 - 🧪 ...
 </details>
 </details>
