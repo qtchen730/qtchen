@@ -50,7 +50,7 @@ The details of my research can be found in my [Publications](https://qtchen730.g
 
 🎓 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Follow-green?style=social&logo=googlescholar)](https://scholar.google.com/citations?user=Ag4Bcb6bUv4C)
 
-📚 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue?style=social&logo=researchgate)](https://www.researchgate.net/profile/Qi-Li-155)
+% 📚 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-blue?style=social&logo=researchgate)](https://www.researchgate.net/profile/Qi-Li-155)
 
 🆔 [![ORCID](https://img.shields.io/badge/ORCID-Connect-green?style=social&logo=orcid)](https://orcid.org/0000-0001-8970-1345)
 
